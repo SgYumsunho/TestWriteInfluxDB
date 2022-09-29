@@ -1,0 +1,9 @@
+2022-09-19 15:30:28.919 +09:00 [INF] 
+2022-09-19 15:30:28.937 +09:00 [INF] ------------------------------------------------------
+2022-09-19 15:30:28.938 +09:00 [INF] S9000C Program Started
+2022-09-19 15:30:28.939 +09:00 [INF] ------------------------------------------------------
+2022-09-19 15:30:28.939 +09:00 [INF] [MAIN]	Registering service objects
+2022-09-19 15:30:28.994 +09:00 [INF] [MAIN]	Creating and running service objects
+2022-09-19 15:30:29.000 +09:00 [INF] [MAIN]	Running service objects
+2022-09-19 15:30:29.006 +09:00 [INF] [MT]	Creating ServiceMainTest object.
+2022-09-19 15:30:29.009 +09:00 [INF] [MT]	ServiceMainTest.showMenu()
